@@ -5,7 +5,7 @@
 }
 /* Le da una imagen al fondo. */
 body {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url(Imagenes_Belgica/Lieja.jpeg);
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url(../Imagenes_Belgica/Lieja.jpeg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -105,7 +105,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Gante.jpeg);
+  background-image: url(../Imagenes_Belgica/Gante.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -175,7 +175,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Amberes2.jpg);
+  background-image: url(../Imagenes_Belgica/Amberes2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -245,7 +245,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Bruxelas1.jpeg);
+  background-image: url(../Imagenes_Belgica/Bruxelas1.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -314,7 +314,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Brujas2.jpg);
+  background-image: url(../Imagenes_Belgica/Brujas2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -383,7 +383,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Dinant.jpg);
+  background-image: url(../Imagenes_Belgica/Dinant.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -453,7 +453,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Malina.jpeg);
+  background-image: url(../Imagenes_Belgica/Malina.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -523,7 +523,7 @@ img {
  overflow: hidden;
   border: 8px solid #ffffff;
 
-  background-image: url(Imagenes_Belgica/Lieja.jpeg);
+  background-image: url(../Imagenes_Belgica/Lieja.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

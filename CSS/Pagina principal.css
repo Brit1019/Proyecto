@@ -249,7 +249,7 @@ border-radius: 0 5px 25px rgb(1 1 1 /20%);
 }
 /* Crea una lista que aparece cuando la pagina esta minimizada */
 .menu-btn{
-  background: url(Imagenes_Inicio/3943401-200.png)no-repeat;
+  background: url(../Imagenes_Inicio/3943401-200.png)no-repeat;
   background-size: 30px;
   background-position: center;
   width: 40px;
@@ -260,7 +260,7 @@ border-radius: 0 5px 25px rgb(1 1 1 /20%);
 /* Hace que cuando se presione el boton se active la función */
 .menu-btn.active{
   z-index: 999;
-  background: url(Logo/close-icon-png-2.jpg)no-repeat;
+  background: url(../Logo/close-icon-png-2.jpg)no-repeat;
   background-size: 25px;
   background-position: center;
   transition: 0.3s ease;
